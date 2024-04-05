@@ -20,8 +20,10 @@ I made a poster based on the relative location of the northest station (start st
 5. `control + c` to stop the server.
 
 **View Live Site:**
-Visit [Glitch](https://pineapple-bald-abrosaurus.glitch.me)
+Visit [Glitch]()
+[Old Version](https://pineapple-bald-abrosaurus.glitch.me)
 
-## Author
+
+### Author
 
 * [Lejing Qiu](https://lejingqiu.com) -- First Year -- [NYU ITP](https://itp.nyu.edu)

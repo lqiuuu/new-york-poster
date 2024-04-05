@@ -45,10 +45,10 @@
 }
 
 #id_7 {
-    -webkit-text-fill-color: blueviolet;
+    -webkit-text-fill-color: darkmagenta;
 }
 #id_7:hover {
-    background-color: blueviolet;
+    background-color: darkmagenta;
     -webkit-text-fill-color: white;
 }
 
