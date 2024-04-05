@@ -1,0 +1,53 @@
+.box-container {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center; 
+    flex-wrap: wrap;
+  }
+.box {
+    flex: 1 0 12%;
+    aspect-ratio: auto 1 / 1;
+    background-color: black;
+    margin: auto;
+    text-align: center; 
+}
+
+#id_123 {
+    background-color: red;
+}
+
+#id_456 {
+    background-color: green;
+}
+
+#id_7 {
+    background-color: blueviolet;
+}
+
+#id_ace {
+    background-color: cornflowerblue;
+}
+
+#id_bdfm {
+    background-color: orange;
+}
+
+#id_nqrw {
+    background-color: gold;
+}
+
+#id_jz {
+    background-color: saddlebrown;
+}
+
+#id_s {
+    background-color: grey;
+}
+
+
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
