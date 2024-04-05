@@ -25,7 +25,7 @@ I made a poster based on the relative location of the northest station (start st
   -- [Old Version](https://pineapple-bald-abrosaurus.glitch.me)
 
 ## Notes & Documentation & Questions
-[Blog](https://lejingqiu.notion.site/Assignment-2-5fc274ac831047549fd95ec0ee882823?pvs=4)<br />
+-- [Blog](https://lejingqiu.notion.site/Assignment-2-5fc274ac831047549fd95ec0ee882823?pvs=4)<br />
 The blog countains:
 * Sketches
 * References
