@@ -3,18 +3,19 @@
     flex-flow: row wrap;
     text-align: center; 
     flex-wrap: wrap;
-    font-family: "Anton", sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     align-items: flex-start;
     border-bottom: 1px solid black;
+    margin:10px
   }
 .box {
     display: flex;
     flex: 0 0 10%;
     aspect-ratio: auto 1 / 1;
-    background-color: white;
+    /* background-color: white; */
     
     margin: auto;
-    margin-top: 5px;
+    /* margin-top: 5px; */
     text-align: center;
     /* vertical-align: middle; */
     /* padding: 1em; */
@@ -26,47 +27,112 @@
 }
 
 #id_123 {
+    -webkit-text-fill-color: red;
+}
+#id_123:hover {
     background-color: red;
+    -webkit-text-fill-color: white;
 }
 
 #id_456 {
+    -webkit-text-fill-color: green;
+}
+#id_456:hover {
     background-color: green;
+    -webkit-text-fill-color: white;
 }
 
 #id_7 {
+    -webkit-text-fill-color: blueviolet;
+}
+#id_7:hover {
     background-color: blueviolet;
+    -webkit-text-fill-color: white;
 }
 
 #id_ace {
-    background-color: cornflowerblue;
+    -webkit-text-fill-color: royalblue;
+}
+#id_ace:hover {
+    background-color: royalblue;
+    -webkit-text-fill-color: white;
 }
 
 #id_bdfm {
+    -webkit-text-fill-color: orange;
+}
+#id_bdfm:hover {
     background-color: orange;
+    -webkit-text-fill-color: white;
 }
 
 #id_nqrw {
+    -webkit-text-fill-color: gold;
+}
+#id_nqrw:hover {
     background-color: gold;
+    -webkit-text-fill-color: black;
+}
+
+#id_g {
+    -webkit-text-fill-color: yellowgreen;
+}
+#id_g:hover {
+    background-color: yellowgreen;
+    -webkit-text-fill-color: white;
 }
 
 #id_jz {
+    -webkit-text-fill-color: saddlebrown;
+}
+#id_jz:hover {
     background-color: saddlebrown;
+    -webkit-text-fill-color: white;
 }
 
 #id_l {
-    background-color: lightgray;
+    -webkit-text-fill-color: lightgray;
 }
+#id_l:hover {
+    background-color: lightgray;
+    -webkit-text-fill-color: white;
+}
+
 #id_s {
+    -webkit-text-fill-color: grey;
+}
+#id_s:hover {
     background-color: grey;
+    -webkit-text-fill-color: white;
 }
 
 #id_t {
-    background-color: turquoise;
+    -webkit-text-fill-color: turquoise;
     opacity: 60%;
+}
+#id_t:hover {
+    background-color: turquoise;
+    -webkit-text-fill-color: white;
 }
 
 #body {
-    font-size: 3vw;
+    justify-content: left;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-size: 2.5vw;
+}
+
+#county {
+    opacity: 0;
+    transform: rotate(-30deg);
+    /* justify-content: left; */
+    /* text-align: start; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+#county:hover {
+    opacity: 100%;
 }
 
 
